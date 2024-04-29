@@ -1,0 +1,16 @@
+.pic{
+    background-image: url(images/image\ 152.png);
+
+ 
+}
+.container{
+    color: white;
+}
+span{
+    color: rgb(85, 8, 62);
+}
+button{
+    color: white;
+    border-color: white;
+    background-color: blueviolet;
+}
